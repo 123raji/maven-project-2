@@ -10,7 +10,7 @@
   <servlet-class>com.example.HelloWorldExample</servlet-class>
   </servlet>
   <servlet-mapping>
-  <servlet-name>HelloWorldExample</servlet-name>
+  <servlet-name>This year, I must make an outstanding figure </servlet-name>
   <url-pattern>/hello</url-pattern>
   </servlet-mapping>
   -->
