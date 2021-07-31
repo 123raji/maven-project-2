@@ -21,7 +21,7 @@
 <body>
 <div class="header">
   <h1>Sample Website</h1>
-  <p>This year, I m coming out with a breaking record!</p>
+  <p>I must succeed this year by all means</p>
 </div>
 </body>
 </html>
